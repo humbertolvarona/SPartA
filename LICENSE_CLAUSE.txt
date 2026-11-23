@@ -1,0 +1,23 @@
+ADDITIONAL MANDATORY CITATION AND ATTRIBUTION CLAUSE
+(Supplemental Terms to the Apache License, Version 2.0)
+
+Software: Simple-Particle Analysis Model (SPartA, pSPartA & operSPartA)
+Version: 3.0
+DOI: 10.5281/zenodo.24444691
+Copyright (c) 2023-2026 Humberto L. Varona, Amilcar E. Calzada, Carlos E. Noriega, Silena Herold-Garcia, Simone M. A. Lira, Cynthia D. M. de Lima, Julia Araujo, Emerson Ozias de Luna, Leonardo Bruto, Alejandro Rodriguez, Moacyr Araujo.
+
+1. Grant of Free Use
+Subject to the terms and conditions of the Apache License, Version 2.0, and this Additional Mandatory Citation and Attribution Clause, permission is hereby granted, free of charge, to any person or organization obtaining a copy of this software and associated documentation files (the "Software"), to use, execute, copy, modify, merge, publish, and distribute the Software for academic, research, educational, governmental, or commercial purposes.
+
+2. Mandatory Citation Requirement for Output and Publications
+Any user who executes the Software to generate numerical outputs, trajectories, maps, datasets, analyses, or figures that are subsequently included in any scientific article, technical report, academic thesis, conference presentation, book, web platform, or public deliverable MUST include an explicit bibliographic citation to the Software in the main text and references section of said work, using the following reference:
+
+   Varona, H. L., Calzada, A. E., Noriega, C. E., Herold-Garcia, S., Lira, S. M. A., de Lima, C. D. M., Araujo, J., de Luna, E. O., Bruto, L., Rodriguez, A., & Araujo, M. (2023). Simple-Particle Analysis Model (SPartA, pSPartA & operSPartA) (Version 3.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24444691
+
+3. Mandatory Attribution and Notice on Modifications and Redistributions
+In addition to fulfilling Section 4 of the Apache License, Version 2.0:
+   (a) Any redistribution of the Software, in source or binary form, with or without modification, must retain the NOTICE file and this LICENSE_CLAUSE file intact.
+   (b) Any derivative work, fork, translation to another programming language, or modified version of the Software must prominently acknowledge the original authors and cite the original Software (DOI: 10.5281/zenodo.24444691) in its documentation, user interface, and source code headers, alongside a clear statement detailing the modifications made.
+
+4. Precedence
+In the event of any conflict between the Apache License, Version 2.0 and this Additional Mandatory Citation and Attribution Clause regarding attribution and citation duties, the stricter citation obligations set forth in this Clause shall prevail.
